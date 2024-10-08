@@ -1,0 +1,7 @@
+com/ebay/calculator/service/CalculatorTests.class
+com/ebay/calculator/operations/OperationCreationTests.class
+com/ebay/calculator/service/CalculationValidationServiceTests.class
+com/ebay/calculator/controller/CalculatorControllerTests.class
+com/ebay/calculator/service/CalculatorTests$CalculationServiceTests.class
+com/ebay/calculator/CalculatorApplicationTests.class
+com/ebay/calculator/service/CalculatorServiceTests.class
