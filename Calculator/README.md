@@ -36,18 +36,18 @@ This way, new operations can be added without modifying existing code.
 
 
 ## Alternatives Consideration
-* BigDecimal is preferred in the finance area. In some cases, BigDecimal is crucial for financial calculations due to its ability to handle decimal numbers with precision.
+* BigDecimal is preferred in the finance area. In some cases, BigDecimal is crucial for financial calculations due to its ability to handle decimal numbers with precision. In future, it could leverage BigDecimal for business requirement.
 
 ## Build and run the project
 
 1. Install openjdk-21 and Maven in your system
 2. Clone the repo
    ```
-   git clone git@github.com:yjtyjt/calculator.git
+   git clone git@github.com:yjtyjt/newRepo.git
    ```
 3. Navigate to the project directory
    ```
-   cd calculation
+   cd newRepo/Calculator
    ```
 4. Build the project with maven
    ```
