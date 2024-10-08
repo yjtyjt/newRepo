@@ -16,10 +16,11 @@ This way, new operations can be added without modifying existing code.
 
 * Support basic operations like ADD, SUBTRACT, MULTIPLY, and DIVIDE.
 * Support for chaining multiple operations on a single value, similar to how basic calculators work.
-* Allow new operations to be added without changes to the existing code
-* Handle invalid case with grace using custom Exception classes
+* Allow new operations to be added without changes to the existing code.
+* Handle invalid case with grace using custom Exception classes.
 
-### Flowchart
+### Flowchart of the design
+
 ![Flow](images/flow.png)
 
 
